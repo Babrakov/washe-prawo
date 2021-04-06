@@ -10,7 +10,7 @@
 $ git clone https://github.com/Babrakov/washeprawo.git
 $ cd washeprawo
 ```
-Загрузить дамп из migrate.sql, настроить параметры подключения к БД в settings.php
+Загрузить дамп из dump.sql, настроить параметры подключения к БД в settings.php
 
 ## Demo
 
