@@ -1,4 +1,5 @@
 <?php
+
 // подключаем файл с настройками и хедер
 require_once 'settings.php';
 require_once 'inc/header.php';
